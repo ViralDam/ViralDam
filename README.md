@@ -21,12 +21,12 @@ Analysis of Algorithms, and Computer Architecture.
 Communication Networks, Fundamentals of Computer Programming, Big Data and Cloud Computing.
 
 ## :computer: Skills
-- Programming languages like Python, C#, C, Java, C++.
-- Machine Learning: PyTorch, TensorFlow, Scikit-learn.
-- Web development: HTML, CSS, JS, React, Bootstrap, jQuery.
-- Database: Sql, NoSql including MongoDb.
+- Programming languages like `Python`, `C#`, `C`, `Java`, `C++`.
+- Machine Learning: `PyTorch`, `TensorFlow`, `Scikit-learn`.
+- Web development: `HTML`, `CSS`, `JS`, `React`, `Bootstrap`, `jQuery`.
+- Database: `Sql`, `NoSql` including `MongoDb`.
 - Knowledge of software development cycle and agile methodology.
-- Other skills: Dot-net MVC architecture, Cypress, Django, Jenkins, Graylog, RabbitMQ, Github.
+- Other skills: `Dot-net` MVC architecture, `Cypress`, `Django`, `Jenkins`, `Graylog`, `RabbitMQ`, `Github`.
 
 ## :technologist: Work Experience
 ### Software Development Engineer I, CarWale
