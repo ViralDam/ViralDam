@@ -1,8 +1,9 @@
 # Viral Damaniya
 ## :dizzy: About Me
-> Welcome to my github!  
-> I am **Viral Damaniya**, MS. Computer Science student at [Santa Clara University](http://scu.edu).  
-> I have worked at [CarWale](http://carwale.com) for 2 years as a SDE 1.   
+> Welcome to my github!
+>  
+> I am **Viral Damaniya**, Innovative graduate student pursuing a Master of Science in Computer Science and Engineering at Santa Clara University, with a profound aptitude for analytical thinking, logical problem-solving, and a fervent passion for the intricacies of computer science. Possesses a track record of academic excellence, demonstrated through a high GPA and a range of challenging coursework. Experienced in software development, AI, and web technologies, with a solid foundation in various programming languages and frameworks.
+>   
 > You can check out many of the projects that I have worked on and also learn more about me.
 
 ## :open_book: Education 
